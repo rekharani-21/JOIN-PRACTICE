@@ -26,4 +26,10 @@ In addition to basic joins, I created another table named employee to demonstrat
 
 This TASK not only allowed me to revise and apply theoretical knowledge but also helped me develop practical skills in relational database management. I learned how to write efficient SQL queries, use aliases, understand different join types, and visualize data relationships clearly. It also deepened my understanding of how businesses use database systems to store, retrieve, and analyze data effectively. MySQL Workbench proved to be a great platform for testing, debugging, and executing queries smoothly. This project reflects my ability to apply foundational database concepts in solving practical problems and will serve as a reference for similar database-driven applications in the future.
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/81656d03-0258-465a-8e92-32f293de4798)
+
+
+
 
